@@ -15,6 +15,8 @@ creator:
     - http://en.wikipedia.org/wiki/Johannes_Linnankoski
     - http://fi.wikipedia.org/wiki/Johannes_Linnankoski
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44389#Ikuinen-taistelu
 gutenberg_issued: '2013-12-08'
 gutenberg_type: Text
 identifiers:
